@@ -38,3 +38,5 @@ go.work.sum
 
 # End of Generated File with ignore-gen
 
+/logs
+
